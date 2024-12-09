@@ -5,7 +5,7 @@ This repository contains select course content, relevant notes, bits of code, fi
 
 **Additional Info:** Please scroll down to view the employer-recognized IT Support Professional Certificate from Google and verification link.
 # Completed Courses and Certificates
-- **Course 1:** IT Security: Defense against the digital dark arts
+- **Course 1:** [IT Security: Defense against the digital dark arts](https://github.com/KailaniBailey/Google-IT-Support/tree/main/IT%20Security:%20Defense%20against%20the%20digital%20dark%20arts)
 - **Course 2:** Technical Support Fundamentals
 - **Course 3:** Operating Systems and You: Becoming a Power User
 - **Course 4:** The Bits and Bytes of Computer Networking
