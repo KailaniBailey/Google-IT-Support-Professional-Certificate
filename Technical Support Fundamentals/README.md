@@ -15,7 +15,7 @@ Course 2 of 5 in the Google IT Support Professional Certificate
 - **Week 2:** [Hardware](https://github.com/KailaniBailey/Google-IT-Support-Professional-Certificate/tree/main/Technical%20Support%20Fundamentals/Hardware)
 - **Week 3:** [Operating System](https://github.com/KailaniBailey/Google-IT-Support-Professional-Certificate/tree/main/Technical%20Support%20Fundamentals/Operating%20System)
 - **Week 4:** [Networking](https://github.com/KailaniBailey/Google-IT-Support-Professional-Certificate/tree/main/Technical%20Support%20Fundamentals/Networking)
-- **Week 5:** Software
+- **Week 5:** [Software](https://github.com/KailaniBailey/Google-IT-Support-Professional-Certificate/tree/main/Technical%20Support%20Fundamentals/Software)
 - **Week 6:** Troubleshooting
 ## Summary of Tasks
 ## Skills Developed
