@@ -5,6 +5,10 @@
 - Be able to identify the most common security attacks.
 - Understand how security revolves around the CIA principle.
 ## Introduction to IT Security
+- Course Introduction
+- Helpful resources and tips
+- How to Use Discussion Forums
+- Get to Know Your Classmates
 ## Malicious Software
 ## Network Attacks
 ## Other Attacks
