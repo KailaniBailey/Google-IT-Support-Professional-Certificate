@@ -11,6 +11,8 @@ This repository contains select course content, relevant notes, bits of code, fi
 - **Course 4:** The Bits and Bytes of Computer Networking
 - **Course 5:** System Administration and IT Infrastructure Services
 ## Course Objectives
+> Updating
 ## Skills for IT Support
+> Updating
 # My Employer-Recognized Certificate from Google
-*Updating*
+> Updating
