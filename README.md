@@ -9,7 +9,7 @@ This repository contains select course content, relevant notes, bits of code, fi
 - **Course 2:** [Technical Support Fundamentals](https://github.com/KailaniBailey/Google-IT-Support/tree/main/Technical%20Support%20Fundamentals)
 - **Course 3:** [Operating Systems and You: Becoming a Power User](https://github.com/KailaniBailey/Google-IT-Support/tree/main/Operating%20Systems%20and%20You:%20Becoming%20a%20Power%20User)
 - **Course 4:** [The Bits and Bytes of Computer Networking](https://github.com/KailaniBailey/Google-IT-Support/tree/main/The%20Bits%20and%20Bytes%20of%20Computer%20Networking)
-- **Course 5:** System Administration and IT Infrastructure Services
+- **Course 5:** [System Administration and IT Infrastructure Services](https://github.com/KailaniBailey/Google-IT-Support/tree/main/System%20Administration%20and%20IT%20Infrastructure%20Services)
 ## Course Objectives
 > Updating
 ## Skills for IT Support
