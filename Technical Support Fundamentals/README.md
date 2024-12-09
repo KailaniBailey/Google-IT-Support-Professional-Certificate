@@ -12,7 +12,7 @@ Course 2 of 5 in the Google IT Support Professional Certificate
 > - utilize common problem-solving methodologies and soft skills in an Information Technology setting
 ## Syllabus for Course 2
 - **Week 1:** [Introduction to IT](https://github.com/KailaniBailey/Google-IT-Support-Professional-Certificate/tree/main/Technical%20Support%20Fundamentals/Introduction%20to%20IT)
-- **Week 2:** Hardware
+- **Week 2:** [Hardware](https://github.com/KailaniBailey/Google-IT-Support-Professional-Certificate/tree/main/Technical%20Support%20Fundamentals/Hardware)
 - **Week 3:** Operating System
 - **Week 4:** Networking
 - **Week 5:** Software
