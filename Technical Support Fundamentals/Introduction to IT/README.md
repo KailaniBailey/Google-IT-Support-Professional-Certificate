@@ -17,6 +17,10 @@
 - How to Use Discussion Forums
 - Get to Know Your Classmates
 ## History of Computing
+- From Abacus to Analytical Engine
+- The Path to Modern Computers
+- Pioneers in Computing and IT
+- Kevin: Their career path
 ## Digital Logic
 ## Computer Architecture Layer
 ## Graded Assessments
