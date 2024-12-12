@@ -35,6 +35,6 @@
 - Kevin: Advice for the world of IT
 - **Practice Quiz:** Computer Architecture (100%)
 ## Graded Assessments
-- Module 1 Glossary
+- [Module 1 Glossary](https://github.com/KailaniBailey/Google-IT-Support-Professional-Certificate/tree/main/Technical%20Support%20Fundamentals/Introduction%20to%20IT/Module%201%20Glossary)
 - **Practice Quiz:** How to Count in Binary (100%)
 - **Graded Quiz:** Module 1 challenge: Introduction to IT and Computing (97.50%)
