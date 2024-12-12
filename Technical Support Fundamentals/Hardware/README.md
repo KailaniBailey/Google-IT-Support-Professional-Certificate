@@ -12,5 +12,19 @@
 - Joe: Diversity in IT
 - **Practice Quiz:** The Modern Computer (100%)
 ## Components
+- CPU
+- Supplemental Reading for CPU Architecture
+- RAM
+- Motherboards
+- Physical Storage: Hard Drives
+- Supplemental Reading for Data Storage
+- Power Supplies
+- Mobile Devices
+- Batteries and Charging Systems
+- Supplemental Reading for Batteries and Charging Systems
+- Peripherals and Ports
+- Supplemental Reading on Connector Types
+- Supplemental Reading for Projectors
+- **Practice Quiz:** Components
 ## Starting It Up
 ## Hardware: Graded Assessment
