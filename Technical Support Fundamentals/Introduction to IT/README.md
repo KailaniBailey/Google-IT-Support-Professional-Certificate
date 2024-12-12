@@ -22,5 +22,12 @@
 - Pioneers in Computing and IT
 - Kevin: Their career path
 ## Digital Logic
+- Computer Language
+- Character Encoding
+- Binary
+- Supplemental Reading on Logic Gates
+- How to Count in Binary
+- Binary Conversion
+- **Practice Quiz:** Binary (100%)
 ## Computer Architecture Layer
 ## Graded Assessments
