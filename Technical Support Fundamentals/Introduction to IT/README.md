@@ -30,4 +30,8 @@
 - Binary Conversion
 - **Practice Quiz:** Binary (100%)
 ## Computer Architecture Layer
+- Abstraction
+- Computer Architecture Overview
+- Kevin: Advice for the world of IT
+- **Practice Quiz:** Computer Architecture (100%)
 ## Graded Assessments
