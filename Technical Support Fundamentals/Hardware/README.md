@@ -37,3 +37,7 @@
 - Troubleshooting Mobile Issues
 - **Practice Quiz:** Starting It Up
 ## Hardware: Graded Assessment
+- One program, many futures
+- Module 2 Glossary
+- **Practice Quiz:** Assemble a Computer
+- **Graded Quiz:** Module 2 challenge: Computer Components and Hardware
