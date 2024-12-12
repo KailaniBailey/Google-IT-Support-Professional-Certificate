@@ -38,6 +38,6 @@
 - **Practice Quiz:** Starting It Up
 ## Hardware: Graded Assessment
 - One program, many futures
-- Module 2 Glossary
+- [Module 2 Glossary](https://github.com/KailaniBailey/Google-IT-Support-Professional-Certificate/tree/main/Technical%20Support%20Fundamentals/Hardware/Module%202%20Glossary)
 - **Practice Quiz:** Assemble a Computer
 - **Graded Quiz:** Module 2 challenge: Computer Components and Hardware
