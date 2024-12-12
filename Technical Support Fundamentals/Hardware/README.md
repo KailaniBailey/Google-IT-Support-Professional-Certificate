@@ -5,6 +5,12 @@
 - Understand how the CPU takes instructions and executes them.
 - Describe how binary data physically travels throughout a computer.
 ## The Modern Computer
+- Module Introduction
+- Introduction to Computer Hardware
+- Programs, the CPU, and Memory
+- Supplemental Reading for CPUs
+- Joe: Diversity in IT
+- **Practice Quiz:** The Modern Computer (100%)
 ## Components
 ## Starting It Up
 ## Hardware: Graded Assessment
