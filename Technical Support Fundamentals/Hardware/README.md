@@ -27,4 +27,13 @@
 - Supplemental Reading for Projectors
 - **Practice Quiz:** Components
 ## Starting It Up
+- BIOS
+- Ben: Skills of IT professionals
+- Putting it All Together: Installing The Processor
+- Putting it All Together: Adding the RAM and The Drive
+- Putting it All Together: Adding Graphics and Other Peripherals
+- Mobile Device Repair
+- Mobile Display Types
+- Troubleshooting Mobile Issues
+- **Practice Quiz:** Starting It Up
 ## Hardware: Graded Assessment
