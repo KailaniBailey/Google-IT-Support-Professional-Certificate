@@ -6,6 +6,16 @@
 - Understand what the layers of computer architecture are.
 - Convert binary numbers into decimal form.
 ## Introduction to IT Support
+- Program Introduction
+- What is IT?
+- What does an IT Support Specialist do?
+- Course Introduction
+- Take a minute to set yourself up for success
+- Helpful resources and tips
+- Participate in program surveys
+- Google IT Cert Participant Entry Survey
+- How to Use Discussion Forums
+- Get to Know Your Classmates
 ## History of Computing
 ## Digital Logic
 ## Computer Architecture Layer
